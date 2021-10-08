@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://imgur.com/iQ08Djb.png"></p>
 
-<p align="center"><a href="https://youtu.be/hsoJLJ22GVA" target="_blank"><img src="https://imgur.com/gaq4sQt.png"></a></p>
+<p align="center"><a href="https://youtu.be/TiChA9fTR-4" target="_blank"><img src="https://imgur.com/gaq4sQt.png"></a></p>
 
 ### Introduction:
 A tutorial on how to use [Simple Interface](https://github.com/deadlykam/SimpleInterface) tool. This is a simple prefab placement system for Unity3D. Here I show you how to place prefabs fast and how to develop on [Simple Interface](https://github.com/deadlykam/SimpleInterface) if you want to. Watch my [Video]() to understand how to use this tool. For further discussion about [Simple Interface](https://github.com/deadlykam/SimpleInterface) please visit this [Discussion Page](https://github.com/deadlykam/SimpleInterface/discussions).
